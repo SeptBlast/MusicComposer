@@ -15,7 +15,7 @@ Dependencies
 
 Use [pip](https://pypi.python.org/pypi/pip) to install any missing dependencies
 
-Installation (Tested on Ubuntu 16.04)
+Installation (Tested on Ubuntu 16.04 & 17.10)
 ============
 
 * Step 1: Tensorflow version 0.8.0 must be used. On [Tensorflow's download page here](https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html), scroll down to "Pip Installation". Follow the first step normally.
